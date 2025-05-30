@@ -6,7 +6,8 @@ A I2C MPU6050 implementation for the STM32F103C6T6 using the HAL library; howeve
 - MPU6050
 - Logic Analyzer (used to see the communications)
 
-## For a barebones setup, check my [other repo](https://github.com/Sparrowehawk/STM32_barebones/tree/main/section_9%20-%20I2C)
+## Alternative barebones CMSIS standard
+[Alt repo](https://github.com/Sparrowehawk/STM32_barebones/tree/main/section_9%20-%20I2C)
 
 ## Setup
 
